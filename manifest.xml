@@ -3,7 +3,7 @@
 	<field key="author" value="Iván Eixarch" />
 	<field key="version" value="1.7" />
 	<field key="description" value="Permite incrustar iframe usando enlaces que contengan la cadena [[IFRAME]]" />
-	<field key="website" value="https://github.com/joker-x" />
+	<field key="website" value="https://github.com/joker-x/elgg-iframe" />
 	<field key="copyright" value="(Copyleft) Equipo T" />
 	<field key="licence" value="GNU Public License version 2" />
 	<field key="elgg_version" value="2010030101" />
