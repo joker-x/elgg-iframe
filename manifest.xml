@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+	<field key="author" value="Iván Eixarch" />
+	<field key="version" value="1.7" />
+	<field key="description" value="Permite incrustar iframe usando enlaces que contengan la cadena [[IFRAME]]" />
+	<field key="website" value="https://github.com/joker-x" />
+	<field key="copyright" value="(Copyleft) Equipo T" />
+	<field key="licence" value="GNU Public License version 2" />
+	<field key="elgg_version" value="2010030101" />
+</plugin_manifest>
